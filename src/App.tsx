@@ -1,6 +1,5 @@
 import React from 'react';
 import TodoApp from './components/TodoApp/TodoApp';
-import './styles/global.css';
 import Header from './Header';
 
 const App: React.FC = () => {
